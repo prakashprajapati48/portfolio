@@ -42,7 +42,7 @@ const Navbar = () => {
             <nav className="navbars" style={navbarscss}>
                 <div className="header" style={headerStyle}>
                     <h4 className="navbar_header">
-                        Aakash
+                        Prakash
                     </h4>
                     <img src={menu_icon} alt="" className="menu_icon" id="menu_icon" value={isOpen} onClick={toggleMenu} />
                 </div>
