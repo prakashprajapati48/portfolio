@@ -823,7 +823,7 @@ body {
 
     .content {
         width: 100%;
-        height: 110vh;
+        height: 150vh;
     }
 
     .nav-list {
@@ -833,7 +833,7 @@ body {
     .skills {
         display: grid;
         grid-template-columns: repeat(3, 1fr);
-        top: -2.8rem;
+        top: 1.2rem;
         width: 100%;
         left: -0.2rem;
     }
@@ -841,7 +841,7 @@ body {
     .about {
         display: block;
         width: 100%;
-        height: 150vh;
+        height: 165vh;
         display: flex;
         flex-direction: column-reverse;
 
