@@ -87,17 +87,17 @@ const Contact = () => {
               </a>
             </i>
             <i className="social_icon">
-              <a href="http://" target="_blank" rel="noopener noreferrer">
+              <a href=" https://x.com/prakash48480" target="_blank" rel="noopener noreferrer">
                 <img className="social_icon_img" src={twitter} alt="twitter" />
               </a>
             </i>
             <i className="social_icon">
-              <a href="http://" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/prakash-prajapati-75ab012b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer">
                 <img className="social_icon_img" src={linkedin} alt="linkedin" />
               </a>
             </i>
             <i className="social_icon">
-              <a href="http://" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/prakashprajapati48" target="_blank" rel="noopener noreferrer">
                 <img className="social_icon_img" src={github} alt="github" />
               </a>
             </i>
