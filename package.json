@@ -1,7 +1,7 @@
 {
-  "homepage": "https://prakashprajapati48.github.io/portfolios",
-  "name": "portfolios",
-  "version": "0.1.0",
+  "homepage": "https://github.com/prakashprajapati48/portfolio",
+  "name": "portfolio",
+  "version": "0.1.0", 
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
