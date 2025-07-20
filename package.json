@@ -1,7 +1,7 @@
 {
-  "homepage": "https://github.com/prakashprajapati48/portfolio.git",
+  "homepage": "https://prakashprajapati48.github.io/portfolios",
   "name": "portfolio",
-  "version": "0.1.0", 
+  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
@@ -11,6 +11,7 @@
     "@testing-library/user-event": "^13.5.0",
     "emailjs": "^4.0.3",
     "emailjs-smtp-client": "^2.0.1",
+    "gh-pages": "^6.3.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-scripts": "5.0.1",
@@ -42,8 +43,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^6.3.0"
   }
 }
